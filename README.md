@@ -5,7 +5,7 @@ Parser for G Code
 
 <p align="center">
     This project is part of the Embarked Systems Course from the department of Mechatronics of the University of São Paulo (USP).
-    It is a G code parser built with ANTLR in Python. The main goal of the project was to learn to build a language parser and test it.
+    It is a G code parser built with ANTLR in Python. The main goals of the project were to learn to build a language parser and test it.
 </p>
 
 ## Features
@@ -19,7 +19,7 @@ Parser for G Code
 - **Java 1.7** or higher;
 - ANTLR installed and set up.
 
-To install and setup (and get a better understanding if you want) ANTLR refer to [this guide](https://tomassetti.me/antlr-mega-tutorial/#chapter17) ehich is a complete tutorial on ANTLR.
+To install and setup (and get a better understanding of ANTLR if you want) ANTLR refer to [this guide](https://tomassetti.me/antlr-mega-tutorial/#chapter17), which is a complete guide on ANTLR.
 
 ## Getting started
 
