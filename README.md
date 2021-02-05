@@ -32,3 +32,7 @@ python main.py testeG.txt
 python -m unittest testcode2Parser.py
 ```
 
+## Project Details
+
+You can check [my report](https://github.com/BrunoScaglione/Parser-GCode/blob/main/Gcode%20Parser.pdf) (in Portuguese) for more details on the project.
+
